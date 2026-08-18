@@ -1,2 +1,2 @@
 # madisoncote01.github.io
-ASU CIS 300 Fall 2026 Session A
+This repository contains files for CIS300 Project Assignments.
